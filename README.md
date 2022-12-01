@@ -1,9 +1,9 @@
 <!-- There's no good way to make an image that's different on light/dark mode that also links
     somewhere.  The closest thing is to add a #gh-light-mode-only to the target, which does this,
     but is kinda confusing -->
-![SymForce](docs/static/images/symforce_banner.png#gh-light-mode-only)
+![SymForce](image/1.png#gh-light-mode-only)
 <!-- DARK_MODE_ONLY -->
-![SymForce](docs/static/images/symforce_banner_dark.png#gh-dark-mode-only)
+![SymForce](image/1.png#gh-dark-mode-only)
 <!-- /DARK_MODE_ONLY -->
 
 | 📣 We are open for internships!  If you are interested in contributing to SymForce, visit the program page [here](https://github.com/symforce-org/symforce/discussions/242) to learn more.  |
